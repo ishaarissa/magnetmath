@@ -1,1 +1,1 @@
-# magnetmath
+# magnemath
